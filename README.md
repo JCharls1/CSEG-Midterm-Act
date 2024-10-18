@@ -14,7 +14,7 @@ Saturno, M-jey <br/>
 ## Quick start <br/>
 **1. clone this repository** 
 ```console 
-$ git clone https://github.com/JCharls1/TicTacToe-MiniMax.git
+$ https://github.com/JCharls1/CSEG-Midterm-Act.git
 ```
 **2. Open git bash terminal**<br/> 
 **3. Run the code with your language of choice**<br/> 
