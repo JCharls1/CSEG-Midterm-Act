@@ -16,7 +16,7 @@ Saturno, M-jey <br/>
 ```console 
 $ https://github.com/JCharls1/CSEG-Midterm-Act.git
 ```
-**2. Open git bash terminal**<br/> 
+**2. Open git bash terminal in vscode (if in windows)**<br/> 
 **3. Run the code with your language of choice**<br/> 
 c++
 ```console 
