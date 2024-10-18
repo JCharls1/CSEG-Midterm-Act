@@ -11,12 +11,12 @@ Pantonia, John Carlo <br/>
 Salamat, Rolph <br/>
 Saturno, M-jey <br/>
 ## Quick start <br/>
-**1. clone this repository**
+**1. clone this repository**<br/> 
 ```console 
 $ git clone https://github.com/JCharls1/TicTacToe-MiniMax.git
 ```
-**2. Open git bash terminal**
-**3. Run the code with your language of choice**
+**2. Open git bash terminal**<br/> 
+**3. Run the code with your language of choice**<br/> 
 c++
 ```console 
 $ chmod +x run.sh
